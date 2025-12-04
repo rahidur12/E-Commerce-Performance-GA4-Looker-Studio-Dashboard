@@ -3,6 +3,7 @@
 An interactive, cloud-based dashboard created using **Looker Studio** that provides **critical, actionable insights** into the E-commerce store's performance. The analysis focuses on maximizing **Return on Ad Spend (ROAS)**, tracking product profitability, and optimizing marketing channel efficiency.
 
 📌 **Report Link (Live):** https://lookerstudio.google.com/reporting/36515d85-b572-4fd7-8180-7fea56b01e7e
+
 📌 **Drive Link (Data/Source Files):** https://drive.google.com/drive/folders/1ykJd5lKmlnnm6HsjW-LtuIj5acl37CK8?usp=sharing
 
 ---
